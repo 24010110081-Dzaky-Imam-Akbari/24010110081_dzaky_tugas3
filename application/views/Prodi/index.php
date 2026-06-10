@@ -18,8 +18,8 @@
 						<td>ID</td>
 						<td>Nama Prodi</td>
 						<td>Strata</td>
-						<td>Nama Fakultas</td>
-						<td>Hapus</td>
+						<td>Fakultas</td>
+						<td>Ubah</td>
 					</tr>
 				</thead>
 

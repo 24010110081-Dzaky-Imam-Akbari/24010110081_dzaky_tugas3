@@ -14,7 +14,7 @@
 						<td>NIM</td>
 						<td>Nama</td>
 						<td>Email</td>
-						<td>Aksi</td>
+						<td>Ubah</td>
 					</tr>
 				</thead>
 				<tbody>
